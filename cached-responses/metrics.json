@@ -1,0 +1,8 @@
+{
+  "data":[
+    {"name":"Site - Battery Power","id":"SWDINPV.ZBAT.TotW.instMag[MX]"},
+    {"name":"Site - Grid Power","id":"SWDINPV.MMXN3.TotW.instMag[MX]"},
+    {"name":"Site - Load Power","id":"SWDINPV.MMXN2.TotW.instMag[MX]"},
+    {"name":"Site - PV Power","id":"SWDINPV.MMXN1.TotW.instMag[MX]"}
+  ]
+}
